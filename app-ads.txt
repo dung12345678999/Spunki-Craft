@@ -1494,3 +1494,13 @@ pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
 openx.com, 537149888, RESELLER, 6a698e2ec38604c6
 appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
 g-global.net, 21643, DIRECT
+ogury.com, beb6610e-87e6-4025-bc4d-4579159eb3e6, RESELLER
+appnexus.com, 11470, RESELLER
+pubmatic.com, 163238, RESELLER, 5d62403b186f2ace #pubmatic
+smartadserver.com, 4537, RESELLER, 060d053dcf45cbf3 #equativ
+rubiconproject.com, 25198, RESELLER, 0bfd66d529a55807 #magnite
+video.unrulymedia.com, 533898005, RESELLER #Nexxen
+dauup.com, 34141, RESELLER #Edge226
+thebrave.io, 1234746, RESELLER, c25b2154543746ac #thebrave
+toponad.com, 16719c20554a4f, RESELLER, 1d49fe424a1a456d #Topon
+sharethrough.com, OAW69Fon, RESELLER, d53b998a7bd4ecd2
